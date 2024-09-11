@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhnghn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhnghn" height="30" width="40" /></a>
-<a href="https://www.behance.net/hghvhnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hghvhnb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jghbvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jghbvn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-kumari-386703253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhnghn" height="30" width="40" /></a>
+<a href="https://www.behance.net/priyankakumari146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hghvhnb" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yjg0LYORnE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jghbvn" height="30" width="40" /></a>
 </p>
 
 
