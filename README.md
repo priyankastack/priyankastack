@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/priyanka-kumari-386703253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhnghn" height="30" width="40" /></a>
 <a href="https://www.behance.net/priyankakumari146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hghvhnb" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/yjg0LYORnE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jghbvn" height="30" width="40" /></a>
+ <a href="https://upskillmafia.com/dashboard/mern" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxp2FScC3tYi8y0-ekWnbeG3vcStXnQeQhGXCqFOwiD6ogQzS" alt="logo" height="30" width="40" /></a>
 </p>
 
 
